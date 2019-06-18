@@ -1,0 +1,3 @@
+ramires03@hotmail.com,827ccb0eea8a706c4c34a16891f84e7b,administrador
+joao@gmail.com,202cb962ac59075b964b07152d234b70,funcionario
+mario@gmail.com,e10adc3949ba59abbe56e057f20f883e,funcionario
